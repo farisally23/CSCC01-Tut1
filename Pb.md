@@ -4,19 +4,7 @@
 
 For estimating our story points, our team has decided to use the Fibonacci sequence of numbers.
 
-1 – \&lt;30 mins
-
-2 -  Half a day
-
-3 – 1 day
-
-5 – 2 -3 days
-
-8 – 3 -5 days
-
-13- 5 – 7 days
-
-Spike
+1,2,3,5,8,13,21,50,100,Spike
 
 **User Stories**
 
@@ -24,9 +12,9 @@ Spike
 
 **Criteria of Satisfaction:**
 
-- **** Ensure that password authentication is working properly
-- **** If incorrect password is entered, user should be shown error message
-- **** If correct password is entered, user should be taken to desired page (homepage of app)
+-  Ensure that password authentication is working properly
+-  If incorrect password is entered, user should be shown error message
+- If correct password is entered, user should be taken to desired page (homepage of app)
 
 **Point Estimate:  5**
 
