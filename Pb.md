@@ -54,7 +54,7 @@ For estimating our story points, our team has decided to use the Fibonacci seque
 
 **Criteria of Satisfaction:**
 
-- ****
+- 
 
 **Estimate: 1**
 
